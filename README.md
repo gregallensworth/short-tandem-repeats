@@ -1,4 +1,4 @@
-# Genomics Work and NOtes
+# Short Tandem Repeats (STRs) Procedure Notes
 
 Last month I was given a copy of a friend's whole genome sequence (WGS) from Nebula Genomics, and tasked with looking for short tandem repeats (STRs) indicative/causative of diseases such as SBMA and Huntington's.
 
